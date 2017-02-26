@@ -3,4 +3,5 @@ dodala osoba B
 i drugi red iste osobe
 ovo je nesto trece i tako dalje
 dodala je osoba A
-i nesto osoba B
+i nesto osoba B i jos jednom osoba A
+i jednom osoba A
