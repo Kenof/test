@@ -1,4 +1,5 @@
 ovo je tekst koji je A
+dodala osoba B
 i drugi red iste osobe
 ovo je nesto trece i tako dalje
 dodala je osoba A
